@@ -1,0 +1,7 @@
+Hello world!
+This is a test FILE.
+Python is great.
+The quick brown fox.
+Comparing two text files.
+Extra line here.
+End of file.
